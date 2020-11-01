@@ -9,10 +9,12 @@ if CLIENT then
 	MINIGAME.lang = {
 		name = {
 			English = "Hardcore Minigame",
+			French = "Mini-jeu Hardcore",
 			Русский = "Хардкорная мини-игра"
 		},
 		desc = {
 			English = "Try to win without some essential HUD elements.",
+			French = "Essayez de gagner sans certains éléments importants de votre interface.",
 			Русский = "Попробуйте выиграть без некоторых важных элементов в вашем интерфейсе."
 		}
 	}
